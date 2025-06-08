@@ -21,4 +21,5 @@ A clean and simple movie search application built with **React**. It uses the [O
 
 ---
 
-
+## 🙋‍♂️ Author
+Made with ❤️ by Jeesan Abbas
